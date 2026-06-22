@@ -5,4 +5,6 @@
 
 ### DAY-2: 21 JUNE 2026
 > - <img width="968" height="466" alt="image" src="https://github.com/user-attachments/assets/14ca8733-9580-4ad3-9a55-3e3fadfec1a7" /> updated the schematic, also added footprints for switches. working on rgb now[15mins]
+> - <img width="609" height="727" alt="image" src="https://github.com/user-attachments/assets/e797ac34-5fdb-4e13-8757-555acb34bf0b" /> rgb done [15mins]
+> - 
 
